@@ -3,4 +3,6 @@ popa
 Эта строка была добавлена в GITHUB
 
 popa
-www.jetbrains.com/idea/download/?section=windows
+www.jetbrains.com/
+
+idea/download/?section=windows
